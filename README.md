@@ -5,7 +5,7 @@ Github-style activity view for a month.
 [![JitPack](https://jitpack.io/v/primaverahq/MonthlyActivity.svg)](https://jitpack.io/#primaverahq/MonthlyActivity) 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/primaverahq/MonthlyActivity/blob/master/LICENSE.md) 
 
-![Preview](https://raw.githubusercontent.com/primaverahq/MonthlyActivity/master/images/screenshot.png)
+![Preview](https://raw.githubusercontent.com/primaverahq/MonthlyActivity/master/images/screenshot.png | width=200)
 
 #### Features
 
@@ -44,7 +44,7 @@ Add a view to your XML:
     android:layout_width="wrap_content"
     android:layout_height="wrap_content" />
 ```
-Convert your data to `Map<Int, Int>` where keys are days of month and values are actual values. Note that following `java.util.Calendar` rules, days are counted from 1 and months are counted from 0. Set a [ColorEvaluator](https://github.com/primaverahq/MonthlyActivity/blob/master/library/com/primaverahq/monthlyactivity/ColorEvaluator.kt) and load your data:
+Convert your data to `Map<Int, Int>` where keys are days of month and values are actual values. Note that following `java.util.Calendar` rules, days are counted from 1 and months are counted from 0. Set a [ColorEvaluator](https://github.com/primaverahq/MonthlyActivity/blob/master/library/src/main/java/com/primaverahq/monthlyactivity/ColorEvaluator.kt) and load your data:
 
 ```kotlin
 val baseColor = Color.parseColor("#ee5454")
