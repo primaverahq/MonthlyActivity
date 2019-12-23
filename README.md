@@ -5,7 +5,7 @@ Github-style activity view for a month.
 [![JitPack](https://jitpack.io/v/primaverahq/MonthlyActivity.svg)](https://jitpack.io/#primaverahq/MonthlyActivity) 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/primaverahq/MonthlyActivity/blob/master/LICENSE.md) 
 
-![Preview](https://raw.githubusercontent.com/primaverahq/MonthlyActivity/master/images/screenshot.png | width=200)
+<img src="https://raw.githubusercontent.com/primaverahq/MonthlyActivity/master/images/screenshot.png" width="200" />
 
 #### Features
 
