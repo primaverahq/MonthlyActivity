@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MonthlyActivityView">
+        <attr name="tile_size" format="dimension" />
+        <attr name="tile_spacing" format="dimension" />
+        <attr name="title_fontFamily" format="reference" />
+        <attr name="title_textColor" format="color" />
+        <attr name="title_textSize" format="dimension" />
+    </declare-styleable>
+
+</resources>

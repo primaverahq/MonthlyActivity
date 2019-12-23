@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MonthActivityView">
+        <item name="tile_size">48dp</item>
+        <item name="tile_spacing">2dp</item>
+        <item name="title_textColor">@android:color/darker_gray</item>
+        <item name="title_textSize">14sp</item>
+    </style>
+
+</resources>
